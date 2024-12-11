@@ -1,6 +1,6 @@
 # Quandary Language Support for Neovim
 
-A Neovim plugin that provides language support for [Quandary](https://github.com/mdbond/Quandary-Public).
+A Neovim plugin that provides language support for [Quandary](https://github.com/mdbond/Quandary-Public), a functional + imperative programming language used to teach Ohio State's [CSE 3341: Principles of Programming Languages](https://syllabi.engineering.osu.edu/syllabi/cse_3341).
 
 ## Features
 
