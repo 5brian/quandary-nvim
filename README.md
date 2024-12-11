@@ -14,7 +14,7 @@ A Neovim plugin that provides language support for [Quandary](https://github.com
 
 ```lua
 {
-  "5brian/quandary-nvim",
+  "5brian/quandary.nvim",
   ft = {"quandary"},
   config = true,
 }
@@ -23,13 +23,13 @@ A Neovim plugin that provides language support for [Quandary](https://github.com
 ### Using [packer.nvim](https://github.com/wbthomason/packer.nvim)
 
 ```lua
-use '5brian/quandary-nvim'
+use '5brian/quandary.nvim'
 ```
 
 ### Using [vim-plug](https://github.com/junegunn/vim-plug)
 
 ```vim
-Plug '5brian/quandary-nvim'
+Plug '5brian/quandary.nvim'
 ```
 
 ## Screenshots
